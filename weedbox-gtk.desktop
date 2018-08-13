@@ -4,5 +4,5 @@ Encoding=UTF-8
 Name=Weedbox
 Comment=SMOKE DAT WEED
 Exec=/usr/share/weedbox-gtk/weedbox-gtk
-Icon=/usr/share/weedbox-gtk/weed.jpg
+Icon=/usr/share/weedbox-gtk/weed.png
 Terminal=false
